@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @MrWanda8g
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+MrWanda8g/MrWanda8g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#00B2EE" />
+  <g transform="translate(60, 40)">
+    <path d="M480 320H0V0H480V320Z" fill="#D00000" />
+    <path d="M240 200L0 0H480L240 200Z" fill="#00B2EE" />
+  </g>
+</svg>
